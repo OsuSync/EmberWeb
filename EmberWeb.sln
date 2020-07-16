@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmberWeb", "src\EmberWeb\EmberWeb.csproj", "{BB5B5594-1969-4305-8E93-A2C9B92CBC2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F2B38928-486D-40C6-B530-C3816BE49A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5B5594-1969-4305-8E93-A2C9B92CBC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5B5594-1969-4305-8E93-A2C9B92CBC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5B5594-1969-4305-8E93-A2C9B92CBC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5B5594-1969-4305-8E93-A2C9B92CBC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB5B5594-1969-4305-8E93-A2C9B92CBC2C} = {F2B38928-486D-40C6-B530-C3816BE49A6A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {076D382A-2A90-4141-B1EB-C2C8755A75BB}
+	EndGlobalSection
+EndGlobal
